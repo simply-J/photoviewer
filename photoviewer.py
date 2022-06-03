@@ -1,4 +1,3 @@
-# create a photo viewer with simple dialog user input for the path of the image using tkinter
 
 # import the tkinter module
 from tkinter import *
